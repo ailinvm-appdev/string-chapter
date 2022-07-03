@@ -6,4 +6,5 @@
 # 
 # (Don't just print the String literal `"HoHoHo"`)
 
-p "Ho"
+a = "Ho" * 3
+p(a)
